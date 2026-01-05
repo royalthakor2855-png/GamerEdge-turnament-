@@ -1,0 +1,7 @@
+{
+  "name": "ProArena Tournament Hub",
+  "description": "A high-performance gaming tournament platform for Free Fire, BGMI, and other competitive titles, featuring a secure admin dashboard and real-time tournament management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
